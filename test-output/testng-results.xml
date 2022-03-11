@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20628" started-at="2022-03-11T17:04:56Z" finished-at="2022-03-11T17:05:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20628" started-at="2022-03-11T17:04:56Z" finished-at="2022-03-11T17:05:17Z">
+      <class name="orangeHRM.NegativeAndPossitiveLoginValidation">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:orangeHRM.NegativeAndPossitiveLoginValidation@66480dd7]" name="navigateURL" is-config="true" duration-ms="6865" started-at="2022-03-11T17:04:56Z" finished-at="2022-03-11T17:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="negativeLogin()[pri:0, instance:orangeHRM.NegativeAndPossitiveLoginValidation@66480dd7]" name="negativeLogin" duration-ms="177" started-at="2022-03-11T17:05:03Z" finished-at="2022-03-11T17:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeLogin -->
+        <test-method status="PASS" signature="quitPage()[pri:0, instance:orangeHRM.NegativeAndPossitiveLoginValidation@66480dd7]" name="quitPage" is-config="true" duration-ms="3584" started-at="2022-03-11T17:05:03Z" finished-at="2022-03-11T17:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitPage -->
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:orangeHRM.NegativeAndPossitiveLoginValidation@66480dd7]" name="navigateURL" is-config="true" duration-ms="4608" started-at="2022-03-11T17:05:07Z" finished-at="2022-03-11T17:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="positiveLogin()[pri:0, instance:orangeHRM.NegativeAndPossitiveLoginValidation@66480dd7]" name="positiveLogin" duration-ms="1991" started-at="2022-03-11T17:05:12Z" finished-at="2022-03-11T17:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveLogin -->
+        <test-method status="PASS" signature="quitPage()[pri:0, instance:orangeHRM.NegativeAndPossitiveLoginValidation@66480dd7]" name="quitPage" is-config="true" duration-ms="3381" started-at="2022-03-11T17:05:14Z" finished-at="2022-03-11T17:05:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitPage -->
+      </class> <!-- orangeHRM.NegativeAndPossitiveLoginValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
