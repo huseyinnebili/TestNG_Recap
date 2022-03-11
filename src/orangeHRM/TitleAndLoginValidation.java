@@ -13,7 +13,7 @@ public class TitleAndLoginValidation extends BaseClass {
 	@BeforeMethod
 	public void openAndNavigate() throws InterruptedException {
 
-		setUp()
+		setUp();
 
 	}
 
